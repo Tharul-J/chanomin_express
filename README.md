@@ -17,22 +17,15 @@ A modern, responsive landing page and digital menu application for the Chanomin 
 <summary>Click to view screenshots</summary>
 <br>
 
-*(Add your screenshots here later)*
+<img width="1702" height="894" alt="image" src="https://github.com/user-attachments/assets/330cc1ac-ac13-406f-8e48-a0a82c94a941" />
+<img width="1710" height="897" alt="image" src="https://github.com/user-attachments/assets/0dfb3a99-0f04-4efa-8f80-5fea771d6098" />
+<img width="1717" height="890" alt="image" src="https://github.com/user-attachments/assets/dd6f92a2-7d86-4dba-a143-77256467bd37" />
+<img width="1715" height="888" alt="image" src="https://github.com/user-attachments/assets/3d98221f-4922-4a5c-8562-52f4dcccf327" />
+
 
 </details>
 
-## Run Locally
 
-**Prerequisites:** Node.js
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the dev server:
-   ```bash
-   npm run dev
-   ```
 
 ## License & Author
 **License:** MIT | **Author:** [Tharul-J](https://github.com/Tharul-J)
