@@ -226,7 +226,7 @@ export default function App() {
           >
             {/* Storefront Image */}
             <img 
-              src="/images/store.png" 
+              src="./images/store.png" 
               alt="Chanomin Express Storefront" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             />
