@@ -1,6 +1,6 @@
 # Chanomin Express
 
-**🌐 Live Preview:** [Coming Soon...](#)
+**🌐 Live Preview:** - https://tharul-j.github.io/chanomin_express/
 
 A modern, responsive landing page and digital menu application for the Chanomin Express (Gampaha Branch). Built to showcase the restaurant's authentic Sri Lankan-Chinese & Mongolian BBQ culinary offerings, vibrant ambiance, and provide an interactive browsing experience for customers.
 
